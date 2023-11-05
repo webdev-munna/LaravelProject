@@ -1,0 +1,19 @@
+.headline {
+  text-align: center;
+  z-index: 100;
+  position: relative;
+  top: calc(150px + 3vw);
+  font-size: 1.14285rem;
+  color: #1c3b63;
+  margin: 5px;
+}
+.subtitle {
+  margin: 5px auto;
+  text-align: center;
+  z-index: 100;
+  position: relative;
+  top: calc(150px + 3vw);
+  font-size: 1rem;
+  font-weight: 400;
+  color: #7c7c7c;
+}
